@@ -1,3 +1,3 @@
 # coffeeduino
 
-Single-serve "keurig-style"coffee maker modified with a Node MCU to provide WiFi communication and NTP time kandle
+Single-serve "keurig-style"coffee maker modified with a Node MCU and minimal custom circuitry to provide WiFi communication and NTP-based timing features.
